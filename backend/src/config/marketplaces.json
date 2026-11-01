@@ -1,0 +1,65 @@
+[
+  {
+    "id": "EBAY_GB",
+    "country": "GB",
+    "currency": "GBP",
+    "contentLanguage": "en-GB",
+    "categoryTreeId": "3",
+    "siteDomain": "www.ebay.co.uk",
+    "aspectNames": { "brand": "Brand", "size": "Size", "colour": "Colour" }
+  },
+  {
+    "id": "EBAY_DE",
+    "country": "DE",
+    "currency": "EUR",
+    "contentLanguage": "de-DE",
+    "categoryTreeId": "77",
+    "siteDomain": "www.ebay.de",
+    "aspectNames": { "brand": "Marke", "size": "Größe", "colour": "Farbe" }
+  },
+  {
+    "id": "EBAY_FR",
+    "country": "FR",
+    "currency": "EUR",
+    "contentLanguage": "fr-FR",
+    "categoryTreeId": "71",
+    "siteDomain": "www.ebay.fr",
+    "aspectNames": { "brand": "Marque", "size": "Taille", "colour": "Couleur" }
+  },
+  {
+    "id": "EBAY_IT",
+    "country": "IT",
+    "currency": "EUR",
+    "contentLanguage": "it-IT",
+    "categoryTreeId": "101",
+    "siteDomain": "www.ebay.it",
+    "aspectNames": { "brand": "Marca", "size": "Taglia", "colour": "Colore" }
+  },
+  {
+    "id": "EBAY_ES",
+    "country": "ES",
+    "currency": "EUR",
+    "contentLanguage": "es-ES",
+    "categoryTreeId": "186",
+    "siteDomain": "www.ebay.es",
+    "aspectNames": { "brand": "Marca", "size": "Talla", "colour": "Color" }
+  },
+  {
+    "id": "EBAY_IE",
+    "country": "IE",
+    "currency": "EUR",
+    "contentLanguage": "en-IE",
+    "categoryTreeId": "205",
+    "siteDomain": "www.ebay.ie",
+    "aspectNames": { "brand": "Brand", "size": "Size", "colour": "Colour" }
+  },
+  {
+    "id": "EBAY_NL",
+    "country": "NL",
+    "currency": "EUR",
+    "contentLanguage": "nl-NL",
+    "categoryTreeId": "146",
+    "siteDomain": "www.ebay.nl",
+    "aspectNames": { "brand": "Merk", "size": "Maat", "colour": "Kleur" }
+  }
+]
